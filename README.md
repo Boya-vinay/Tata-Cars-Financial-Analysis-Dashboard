@@ -81,3 +81,6 @@ Mid-range Tata vehicles are the biggest profit drivers
 Sales show seasonal variation, requiring demand balancing strategies
 Petrol & Diesel vehicles dominate revenue, but EV segment is emerging
 Cost structure significantly impacts profitability, especially in traditional fuel vehicles
+
+## 📷 Dashboard Preview
+https://github.com/Boya-vinay/Tata-Cars-Financial-Analysis-Dashboard/blob/main/Screenshot%202026-03-27%20200519.png
