@@ -2,10 +2,10 @@
 This repository contains a financial analysis project on Tata Motors, focusing on car products that are owned or manufactured by the company. The project includes data cleaning, transformation, and interactive dashboard creation using Power BI and SQL to generate meaningful business insights and support decision-making.
 
 
-#Financial Overview (Based on Your Dashboard)
+##Financial Overview (Based on Your Dashboard)
          #Key Financial Metrics
 
-# overall performance:
+## overall performance:
 
 Net Profit: ~$1.004 bn
 Gross Profit: ~$1.334 bn
@@ -13,7 +13,7 @@ Cash Flow: ~$1.049 bn
 EBIT: ~$1.333 bn
 EBITDA: ~$1.334 bn
 
-# This indicates:
+## This indicates:
 
 High operational efficiency
 Strong profitability with controlled costs
@@ -23,7 +23,7 @@ Sales fluctuate between ~4.0M to 4.5M units
 Peak observed around March & September–October
 Dip seen around November
 
-# Insight: 1
+## Insight: 1
 
 Possible seasonal demand pattern
 Need to boost sales in low-performing months
@@ -35,7 +35,7 @@ Tata Altroz
 Tata Punch
 Tata Tiago
 
-# Insight: 2
+## Insight: 2
 
 Tata’s mid-range cars dominate profitability
 Strong reliance on core Tata models
@@ -43,7 +43,7 @@ Strong reliance on core Tata models
 Some brands generate significantly higher cash flow
 Others show moderate but stable contribution
 
-# Insight: 3
+## Insight: 3
 
 Uneven cash distribution across brands
 Opportunity to optimize underperforming models
@@ -51,7 +51,7 @@ Opportunity to optimize underperforming models
 Revenue stays around $100bn–$120bn
 Profit ranges around $75bn–$90bn
 
-# Insight: 4
+## Insight: 4
 
 Stable relationship between revenue and profit
 Indicates consistent margin control
@@ -61,7 +61,7 @@ Petrol & Diesel → Highest contributors
 Electric vehicles slightly lower but growing
 CNG → Minimal contribution
 
-# Insight: 5
+## Insight: 5
 
 Traditional fuel vehicles still dominate
 EV segment shows future growth potential
@@ -70,7 +70,7 @@ Petrol & Diesel → Highest costs
 Electric → Moderate cost
 CNG → Lowest
 
-# Insight: 5
+## Insight: 5
 
 High cost directly impacts profit margins
 EV may become more efficient long-term
