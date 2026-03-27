@@ -84,3 +84,6 @@ Cost structure significantly impacts profitability, especially in traditional fu
 
 ## 📷 Dashboard Preview
 https://github.com/Boya-vinay/Tata-Cars-Financial-Analysis-Dashboard/blob/main/Screenshot%202026-03-27%20200519.png
+
+## Dataset Download Link
+https://github.com/Boya-vinay/Tata-Cars-Financial-Analysis-Dashboard/blob/main/updated_optionB_dataset_realistic.csv
