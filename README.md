@@ -7,10 +7,10 @@ This repository contains a financial analysis project on Tata Motors, focusing o
 
 ## overall performance:
 
-Net Profit: ~$1.004 bn
-Gross Profit: ~$1.334 bn
-Cash Flow: ~$1.049 bn
-EBIT: ~$1.333 bn
+Net Profit: ~$1.004 bn,
+Gross Profit: ~$1.334 bn,
+Cash Flow: ~$1.049 bn,
+EBIT: ~$1.333 bn,
 EBITDA: ~$1.334 bn
 
 ## This indicates:
