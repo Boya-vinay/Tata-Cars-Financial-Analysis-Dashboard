@@ -17,7 +17,7 @@ EBITDA: ~$1.334 bn
 
 High operational efficiency
 Strong profitability with controlled costs
-📈 Sales & Trend Analysis
+##### 📈 Sales & Trend Analysis
 🔹 Monthly Units Sold Trend
 Sales fluctuate between ~4.0M to 4.5M units
 Peak observed around March & September–October
@@ -47,7 +47,8 @@ Others show moderate but stable contribution
 
 Uneven cash distribution across brands
 Opportunity to optimize underperforming models
-📊 Revenue vs Profit Trend
+
+##### 📊 Revenue vs Profit Trend
 Revenue stays around $100bn–$120bn
 Profit ranges around $75bn–$90bn
 
@@ -55,7 +56,8 @@ Profit ranges around $75bn–$90bn
 
 Stable relationship between revenue and profit
 Indicates consistent margin control
-⛽ Fuel Type Analysis
+
+##### ⛽ Fuel Type Analysis
 🔹 Gross Profit by Fuel Type
 Petrol & Diesel → Highest contributors
 Electric vehicles slightly lower but growing
