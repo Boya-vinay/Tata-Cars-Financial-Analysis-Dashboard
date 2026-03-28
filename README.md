@@ -2,9 +2,6 @@
 This repository contains a financial analysis project on Tata Motors, focusing on car products that are owned or manufactured by the company. The project includes data cleaning, transformation, and interactive dashboard creation using Power BI and SQL to generate meaningful business insights and support decision-making.
 
 
-##Financial Overview (Based on Your Dashboard)
-         #Key Financial Metrics
-
 ## overall performance:
 
 Net Profit: ~$1.004 bn,
@@ -101,6 +98,7 @@ CNG → Lowest
 ## Insight: 6
 
 High cost directly impacts profit margins
+
 EV may become more efficient long-term
 
 ## Final Overview
