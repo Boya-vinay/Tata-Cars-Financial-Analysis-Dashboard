@@ -8,16 +8,21 @@ This repository contains a financial analysis project on Tata Motors, focusing o
 ## overall performance:
 
 Net Profit: ~$1.004 bn,
+
 Gross Profit: ~$1.334 bn,
+
 Cash Flow: ~$1.049 bn,
+
 EBIT: ~$1.333 bn,
+
 EBITDA: ~$1.334 bn
 
 ## This indicates:
 
 High operational efficiency
 Strong profitability with controlled costs
-##### 📈 Sales & Trend Analysis
+
+📈 Sales & Trend Analysis
 🔹 Monthly Units Sold Trend
 Sales fluctuate between ~4.0M to 4.5M units
 Peak observed around March & September–October
@@ -27,7 +32,8 @@ Dip seen around November
 
 Possible seasonal demand pattern
 Need to boost sales in low-performing months
-###  Brand Performance Analysis
+
+  Brand Performance Analysis
 🔹 Top Brands by Net Profit
 Tata Curvv → Highest profit contributor
 Followed by:
@@ -48,7 +54,8 @@ Others show moderate but stable contribution
 Uneven cash distribution across brands
 Opportunity to optimize underperforming models
 
-##### 📊 Revenue vs Profit Trend
+
+ 📊 Revenue vs Profit Trend
 Revenue stays around $100bn–$120bn
 Profit ranges around $75bn–$90bn
 
@@ -57,7 +64,8 @@ Profit ranges around $75bn–$90bn
 Stable relationship between revenue and profit
 Indicates consistent margin control
 
-##### ⛽ Fuel Type Analysis
+
+ ⛽ Fuel Type Analysis
 🔹 Gross Profit by Fuel Type
 Petrol & Diesel → Highest contributors
 Electric vehicles slightly lower but growing
