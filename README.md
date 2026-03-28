@@ -27,7 +27,7 @@ Dip seen around November
 
 Possible seasonal demand pattern
 Need to boost sales in low-performing months
-  Brand Performance Analysis
+###  Brand Performance Analysis
 🔹 Top Brands by Net Profit
 Tata Curvv → Highest profit contributor
 Followed by:
